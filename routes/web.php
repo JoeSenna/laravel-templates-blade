@@ -14,7 +14,7 @@ use App\Http\Controllers\HomeController; #4 importa a classe clicando com o bot√
 |
 */
 
-Route::get('/', function () {return view('templates');}); #2 cria a rota principal
+Route::get('/', function () {return view('first');}); #2 cria a rota principal
 Route::get('/act', [HomeController::class, 'act']); #3 cria as rotas alternativas
 
 #1 - php artisan make:controller HomeController e depois liga o servidor com php artisan serve
