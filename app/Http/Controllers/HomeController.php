@@ -13,4 +13,4 @@ class HomeController extends Controller
         return view('act');
     }
 }
-#5 cria toda a home controller
+#5 cria toda a home controller, com as funções que vão chamar cada página do site

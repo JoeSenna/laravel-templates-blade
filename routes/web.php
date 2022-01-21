@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\HomeController; #4
+use App\Http\Controllers\HomeController; #4 importa a classe clicando com o botão direito no HomeController > import class
 
 /*
 |--------------------------------------------------------------------------

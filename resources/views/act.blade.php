@@ -10,4 +10,4 @@
     <h2>Instituto de Ciência e Tecnologia de Franca</h2>
 </body>
 </html>
-<!--6 cria as páginas-->
+<!--6 cria as páginas em HTML-->
